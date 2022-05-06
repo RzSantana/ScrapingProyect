@@ -43,8 +43,8 @@ connect.executeSQL('CREATE TABLE IF NOT EXISTS test ('
                    'price FLOAT NOT NULL, '
                    'stars INT NOT NULL, '
                    'cover VARCHAR(255) NOT NULL, '
-                   'urlAuthor VARCHAR(255) NOT NULL, '
                    'tecnicalSheet TEXT NOT NULL, '
+                   'urlAuthor VARCHAR(255) NOT NULL, '
                    'author VARCHAR(255) NOT NULL, '
                    'descriptionAuthor TEXT NOT NULL, '
                    'imgAuthor VARCHAR(255) NOT NULL, '
@@ -152,21 +152,11 @@ while run is True:
 
 
         # book description capture
-        try:    
-            containerReadMoreAuthor = driver.find_element(By.ID, 'editorialReviews_feature_div')
-            readMoreAuthor = containerReadMoreAuthor.find_element(By.CLASS_NAME, 'a-declarative')
-            readMoreAuthor.click()
-
-            containerDescriptionAuthor = driver.find_element(By.ID, 'author_biography')
-            arrayDescriptionAuthor = containerDescriptionAuthor.find_elements(By.TAG_NAME, 'p')
-            descriptionAuthor = ''
-        
-
-            for t in range(0, len(arrayDescriptionAuthor)):
-                txt = arrayDescriptionAuthor[t].text
-                descriptionAuthor = descriptionAuthor + txt
+        try:  
+            descriptionAuthor = driver.find_element(By.XPATH, '/html/body/div[3]/div[2]/div[5]/div[20]/div[2]/div').text
         except:
             descriptionAuthor = 'None'
+
 
         # book author data capture
         try:
@@ -224,7 +214,7 @@ while run is True:
         
 
         # Query for insert the books in de tabla
-        query = 'INSERT INTO test (id, urlBook, title, description, price, stars, cover, tecnicalSheet, urlAuthor, author, descriptionAuthor, imgAuthor) VALUES (NULL,"{}", "{}", "{}", "{}", "{}", "{}", "{}", "{}", "{}", "{}", "{}")'.format(urlBook.replace('"', ''), titleBook.replace('"', ''), descriptionBook.replace('"', ''), price, starsBook, imgBook.replace('"', ''), productDetails.replace('"', ''), linkAuthor.replace('"', ''), authorBook.replace('"', ''), imgAuthor.replace('"', ''))
+        query = 'INSERT INTO test (id, urlBook, title, description, price, stars, cover, tecnicalSheet, urlAuthor, author, descriptionAuthor, imgAuthor) VALUES (NULL,"{}", "{}", "{}", "{}", "{}", "{}", "{}", "{}", "{}", "{}", "{}")'.format(urlBook.replace('"', ''), titleBook.replace('"', ''), descriptionBook.replace('"', ''), price, starsBook, imgBook.replace('"', ''), productDetails, linkAuthor.replace('"', ''), authorBook.replace('"', ''), descriptionAuthor.replace('"', ''), imgAuthor.replace('"', ''))
         connect.executeSQL(query) # Execute the query
         connect.commitSQL() # Commit the query in the database
         print(f'> [✅ Commit]')
