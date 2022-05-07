@@ -1,5 +1,5 @@
 
-# Version 0.1.2
+# Version 0.1.3
 
 
 # Library's imports
@@ -116,7 +116,7 @@ while run is True:
 
         # Book description capture
         try:
-            descriptionBook = driver.find_element(By.ID, 'bookDescription_feature_div').text
+            descriptionBook = driver.find_element(By.ID, 'editorialReviews_feature_div').text
         except:
             descriptionBook = 'None'
             pass
@@ -158,9 +158,11 @@ while run is True:
 
         # Book description capture
         try:  
-            descriptionAuthor = driver.find_element(By.XPATH, '/html/body/div[3]/div[2]/div[5]/div[20]/div[2]/div').text
+            containerDescriptionAuthor = driver.find_element(By.ID, 'editorialReviews_feature_div')
+            descriptionAuthor = containerDescriptionAuthor.find_element(By.XPATH, 'div[2]/div/span').text
         except:
             descriptionAuthor = 'None'
+            pass
 
 
         # Book author data capture
@@ -188,26 +190,6 @@ while run is True:
                 imgAuthor = driver.find_element(By.CLASS_NAME, 'a-dynamic-image ').get_attribute('src')
             except:
                 imgAuthor = 'None'
-
-
-            # # Book description capture
-            # try:    
-            #     containerReadMoreAuthor = driver.find_element(By.ID, 'author_biography_expander_heading')
-            #     readMoreAuthor = containerReadMoreAuthor.find_element(By.CLASS_NAME, 'a-declarative')
-            #     readMoreAuthor.click()
-
-            #     containerDescriptionAuthor = driver.find_element(By.ID, 'author_biography')
-            #     arrayDescriptionAuthor = containerDescriptionAuthor.find_elements(By.TAG_NAME, 'p')
-            #     descriptionAuthor = ''
-            
-
-            #     for t in range(0, len(arrayDescriptionAuthor)):
-            #         txt = arrayDescriptionAuthor[t].text
-            #         descriptionAuthor = descriptionAuthor + txt
-
-            # except:
-            #     descriptionAuthor = 'None'
-
         except:
             pass
 

@@ -6,7 +6,7 @@ try:
         port='3306',
         user='root',
         password='',
-        db='testScraping'
+        db='scrapingproyect'
     )
 
     if connexion.is_connected():

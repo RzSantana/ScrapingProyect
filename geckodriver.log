@@ -3980,3 +3980,551 @@ JavaScript warning: https://www.amazon.es/Padre-edici%C3%B3n-limitada-precio-esp
 JavaScript warning: https://www.amazon.es/Robert-T.-Kiyosaki/e/B001H6GV90?ref_=dbs_p_pbk_r00_abau_000000 line 8644 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript warning: https://www.amazon.es/Muchas-vidas-muchos-maestros-BOLSILLO/dp/8490707189/ref=sr_1_38?qid=1651852118&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-38 line 8228 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript error: https://images-eu.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|5110husWMzL.js,11yKORv-GTL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21SDJtBU-PL.js,012FVc3131L.js,11rRjDLdAVL.js,51RzYQslpZL.js,11kWu3cNjYL.js,11tMohjWmVL.js,11OREnu1epL.js,11wcWdhrnDL.js,21ssiLNIZvL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31R9m8rig5L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,0197uKrNvvL.js_.js?AUIClients/AmazonUI#page_type-Detail, line 271: TypeError: can't access property "jquery", a is undefined
+1651867401754	geckodriver	INFO	Listening on 127.0.0.1:53401
+1651867404884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "53402" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileCghlkV"
+1651867405677	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53402
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileCghlkV\\search.json.mozlz4", (void 0)))
+1651867409939	Marionette	INFO	Listening on port 53407
+DevTools listening on ws://localhost:53402/devtools/browser/93153fed-187c-4703-85d5-c9ef155868fc
+1651867410294	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651867511249	Marionette	INFO	Stopped listening on port 53407
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651868952845	geckodriver	INFO	Listening on 127.0.0.1:53522
+1651868955938	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "53523" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileP9S3Q9"
+1651868956593	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53523
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileP9S3Q9\\search.json.mozlz4", (void 0)))
+1651868960877	Marionette	INFO	Listening on port 53528
+DevTools listening on ws://localhost:53523/devtools/browser/d49f9af5-56bd-465d-b0d2-083b8107a1e8
+1651868961355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.es/s?i=stripbooks&bbn=902718031&rh=n%3A599364031%2Cn%3A902716031%2Cn%3A902718031%2Cp_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&dc&fs=true&qid=1651600699&rnid=831428031&ref=sr_pg_1 line 7753 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.es"
+1651869088888	Marionette	INFO	Stopped listening on port 53528
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1869045865	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53626
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofile30LcnW\\search.json.mozlz4", (void 0)))
+1651869049980	Marionette	INFO	Listening on port 53631
+DevTools listening on ws://localhost:53626/devtools/browser/859c6763-ef37-465d-9696-98aa23d61d1a
+1651869050482	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.es/s?i=stripbooks&bbn=902718031&rh=n%3A599364031%2Cn%3A902716031%2Cn%3A902718031%2Cp_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&dc&fs=true&qid=1651600699&rnid=831428031&ref=sr_pg_1 line 7739 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.es"
+JavaScript warning: https://www.amazon.es/C%C3%B3mo-hacer-pasen-cosas-buenas/dp/8467053305/ref=sr_1_1?qid=1651869092&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-1 line 8023 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B07G5365QW?f=1&l=es_ES&r=d4d3ba00&rid=9V8K376V8G8KY5DPBKWA&sid=262-0476229-8251522&pa=8467053305&ref_=litb_d line 552 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Marian-Rojas-Estap%C3%A9/e/B0825596GN?ref_=dbs_p_pbk_r00_abau_000000 line 5109 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-eu.ssl-images-amazon.com/images/I/81bzV-5hfzL.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Encuentra-persona-vitamina-F-COLECCION/dp/8467062215/ref=sr_1_2?qid=1651869092&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-2 line 8397 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Marian-Rojas-Estap%C3%A9/e/B0825596GN?ref_=dbs_p_pbk_r00_abau_000000 line 5109 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B097QFYCBK?f=1&l=es_ES&r=9a462d47&rid=5BW56TZW651EZYKDQ3HT&sid=262-0476229-8251522&pa=8467062215&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Cuando-el-coraz%C3%B3n-llora-HarperCollins/dp/8491397353/ref=sr_1_3?qid=1651869092&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-3 line 8073 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Tamara-Gorro/e/B076D7SMHF?ref_=dbs_p_pbk_r00_abau_000000 line 3664 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B09TFJ7PBL?f=1&l=es_ES&r=ac32359a&rid=RG801VYHDPF5MPWF3788&sid=262-0476229-8251522&pa=8491397353&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Por-las-voces-vuelven-Ficci%C3%B3n/dp/8408249215/ref=sr_1_4?qid=1651869092&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-4 line 8479 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/%C3%81ngel-Mart%C3%ADn/e/B09G75X4ZR?ref_=dbs_p_pbk_r00_abau_000000 line 3144 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B09FY765MG?f=1&l=es_ES&r=d6df648c&rid=FK1AYADM8ERA8E03QN2H&sid=262-0476229-8251522&pa=8408249215&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Destroza-diario-Ahora-Libros-Singulares/dp/8449333733/ref=sr_1_5?qid=1651869092&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-5 line 8334 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Keri-Smith/e/B001JRZIY6?ref_=dbs_p_pbk_r00_abau_000000 line 5191 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://www.amazon.es/H%C3%A1bitos-at%C3%B3micos-Autoconocimiento-James-Clear/dp/8418118032/ref=sr_1_6?qid=1651869092&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-6 line 8460 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B085G3G2CY?f=1&l=es_ES&r=c7ecd69c&rid=H3EFYFHAF7YQ7ZEHN3N0&sid=262-0476229-8251522&pa=8418118032&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/James-Clear/e/B07DJTJC3X?ref_=dbs_p_pbk_r00_abau_000000 line 8504 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Me-quiero-desarrollar-relaciones-Tendencias/dp/8402424589/ref=sr_1_7?qid=1651869092&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-7 line 8329 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Mar%C3%ADa-Esclapez/e/B08J49RG8N?ref_=dbs_p_pbk_r00_abau_000000 line 3604 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Cerebro-Explicado-Padres-Plataforma-Actual/dp/8416429561/ref=sr_1_8?qid=1651869092&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-8 line 8741 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B01IBPAB72?f=1&l=es_ES&r=ee89c1d9&rid=D3YEZB1N76NJEP70Z4QV&sid=262-0476229-8251522&pa=8416429561&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/%C3%81lvaro-Bilbao/e/B00JCBWH9A?ref_=dbs_p_pbk_r00_abau_000000 line 7150 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Acepta-vuela-odiarme-amarme-medida/dp/8418051523/ref=sr_1_9?qid=1651869092&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-9 line 7187 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-eu.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|5110husWMzL.js,11yKORv-GTL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21SDJtBU-PL.js,012FVc3131L.js,11rRjDLdAVL.js,51RzYQslpZL.js,11kWu3cNjYL.js,11tMohjWmVL.js,11OREnu1epL.js,11wcWdhrnDL.js,21ssiLNIZvL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31R9m8rig5L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,0197uKrNvvL.js_.js?AUIClients/AmazonUI#page_type-Detail, line 271: TypeError: can't access property "jquery", a is undefined
+JavaScript warning: https://leer.amazon.es/sample/B09W4SNCTB?f=1&l=es_ES&r=d7dd0fa7&rid=T1WETQFNRYCP39PYGH6F&sid=262-0476229-8251522&pa=8418051523&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Mara-Jim%C3%A9nez/e/B09X7CRZ9M?ref_=dbs_p_pbk_r00_abau_000000 line 3151 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/monje-que-vendi%C3%B3-Ferrari-CLAVE/dp/8499087124/ref=sr_1_10?qid=1651869092&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-10 line 8234 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B0062XBS32?f=1&l=es_ES&r=554faee4&rid=TWR6TZ0SC4AMTAXTC57F&sid=262-0476229-8251522&pa=8499087124&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Robin-Sharma/e/B000APEZCE?ref_=dbs_p_pbk_r00_abau_000000 line 8800 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/El-hombre-en-busca-sentido/dp/8425432022/ref=sr_1_11?qid=1651869092&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-11 line 8599 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B019H695T4?f=1&l=es_ES&r=cebf7493&rid=863MA9KBA1XY8AQ63M9B&sid=262-0476229-8251522&pa=8425432022&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-eu.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|5110husWMzL.js,11yKORv-GTL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21SDJtBU-PL.js,012FVc3131L.js,11rRjDLdAVL.js,51RzYQslpZL.js,11kWu3cNjYL.js,11tMohjWmVL.js,11OREnu1epL.js,11wcWdhrnDL.js,21ssiLNIZvL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31R9m8rig5L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,0197uKrNvvL.js_.js?AUIClients/AmazonUI#page_type-Detail, line 271: TypeError: can't access property "jquery", a is undefined
+JavaScript warning: https://www.amazon.es/Viktor-E.-Frankl/e/B000APVZJU?ref_=dbs_p_pbk_r00_abau_000000 line 8473 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Los-cuatro-acuerdos-sabidur%C3%ADa-Crecimiento/dp/847953253X/ref=sr_1_12?qid=1651869092&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-12 line 8233 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B005BU9MTO?f=1&l=es_ES&r=f3224261&rid=ND5FFCNGDDKWGBMQCVAE&sid=262-0476229-8251522&pa=847953253X&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-eu.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|5110husWMzL.js,11yKORv-GTL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21SDJtBU-PL.js,012FVc3131L.js,11rRjDLdAVL.js,51RzYQslpZL.js,11kWu3cNjYL.js,11tMohjWmVL.js,11OREnu1epL.js,11wcWdhrnDL.js,21ssiLNIZvL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31R9m8rig5L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,0197uKrNvvL.js_.js?AUIClients/AmazonUI#page_type-Detail, line 271: TypeError: can't access property "jquery", a is undefined
+JavaScript warning: https://www.amazon.es/Don-Miguel-Ruiz/e/B001JP23NM?ref_=dbs_p_pbk_r00_abau_000000 line 8930 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Invicto-Entrenamiento-mental-lograr-sufrir/dp/8409202581/ref=sr_1_13?qid=1651869092&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-13 line 8021 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Marcos-V%C3%A1zquez/e/B08B8Z8NB4?ref_=dbs_p_pbk_r00_abau_000000 line 4866 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Ends-Us-Colleen-Hoover/dp/1471156265/ref=sr_1_14?qid=1651869092&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-14 line 7968 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-eu.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|5110husWMzL.js,11yKORv-GTL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21SDJtBU-PL.js,012FVc3131L.js,11rRjDLdAVL.js,51RzYQslpZL.js,11kWu3cNjYL.js,11tMohjWmVL.js,11OREnu1epL.js,11wcWdhrnDL.js,21ssiLNIZvL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31R9m8rig5L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,0197uKrNvvL.js_.js?AUIClients/AmazonUI#page_type-Detail, line 271: TypeError: can't access property "jquery", a is undefined
+JavaScript warning: https://leer.amazon.es/sample/B0176M3U10?f=1&l=es_ES&r=e8d03b67&rid=WV379DP3WYYY4H2S6QZY&sid=262-0476229-8251522&pa=1471156265&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Colleen-Hoover/e/B006SKAK42?ref_=dbs_p_pbk_r00_abau_000000 line 9170 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Personas-t%C3%B3xicas-identificarlas-narcisistas-superaci%C3%B3n/dp/8408255010/ref=sr_1_15?qid=1651869092&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-15 line 7435 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-eu.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|5110husWMzL.js,11yKORv-GTL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21SDJtBU-PL.js,012FVc3131L.js,11rRjDLdAVL.js,51RzYQslpZL.js,11kWu3cNjYL.js,11tMohjWmVL.js,11OREnu1epL.js,11wcWdhrnDL.js,21ssiLNIZvL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31R9m8rig5L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,0197uKrNvvL.js_.js?AUIClients/AmazonUI#page_type-Detail, line 271: TypeError: can't access property "jquery", a is undefined
+JavaScript warning: https://leer.amazon.es/sample/B09V83W1V5?f=2&l=es_ES&rid=10G7D6VNBX1VN9482TKT&sid=262-0476229-8251522&pa=8408255010&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Silvia-Congost-Provensal/e/B00J4JU3SM?ref_=dbs_p_pbk_r00_abau_000000 line 7531 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/ganar-amigos-influir-personas-Elipse/dp/8493664928/ref=sr_1_16?qid=1651869092&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-16 line 7961 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B07DWF6W94?f=1&l=es_ES&r=20a1c342&rid=AZCGSCGYE1N791WC1H8F&sid=262-0476229-8251522&pa=8493664928&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Dale-Carnegie/e/B00OIFV2S2?ref_=dbs_p_pbk_r00_abau_000000 line 8465 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/s?i=stripbooks&bbn=902718031&rh=n%3A599364031%2Cn%3A902716031%2Cn%3A902718031%2Cp_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&dc&fs=true&page=2&qid=1651869092&rnid=831428031&ref=sr_pg_1 line 7737 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NHksFvpwOA_e7xJte31GpOZsvVxHGuXQeGuPktjycGc.js line 1 > eval line 4908 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/El-Humor-Mi-Vida-Espa%C3%B1ol/dp/8491396209/ref=sr_1_17?qid=1651869263&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-17 line 8351 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B08VL1GSDX?f=1&l=es_ES&r=d3ff4110&rid=8DDHGY6FQMFWSGA9Y14Q&sid=262-0476229-8251522&pa=8491396209&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Paz-Padilla/e/B00IYSCA7G?ref_=dbs_p_pbk_r00_abau_000000 line 3812 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/revoluci%C3%B3n-glucosa-Equilibra-niveles-cambiar%C3%A1s/dp/8411190080/ref=sr_1_18?qid=1651869263&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-18 line 7032 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-eu.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|5110husWMzL.js,11yKORv-GTL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21SDJtBU-PL.js,012FVc3131L.js,11rRjDLdAVL.js,51RzYQslpZL.js,11kWu3cNjYL.js,11tMohjWmVL.js,11OREnu1epL.js,11wcWdhrnDL.js,21ssiLNIZvL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31R9m8rig5L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,0197uKrNvvL.js_.js?AUIClients/AmazonUI#page_type-Detail, line 271: TypeError: can't access property "jquery", a is undefined
+JavaScript warning: https://www.amazon.es/Jessie-Inchauspe/e/B093K86K1Z?ref_=dbs_p_pbk_r00_abau_000000 line 4559 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-eu.ssl-images-amazon.com/images/I/81bzV-5hfzL.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Sin-miedo-comprobado-obsesiones-hipocondr%C3%ADa/dp/8425361109/ref=sr_1_19?qid=1651869263&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-19 line 8056 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B093XVPLGG?f=1&l=es_ES&r=d6ffd604&rid=SZE9JZ8G4MH54VF8SYY3&sid=262-0476229-8251522&pa=8425361109&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Rafael-Santandreu/e/B00J2GNY9M?ref_=dbs_p_pbk_r00_abau_000000 line 8289 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://www.amazon.es/zonas-err%C3%B3neas-CLAVE-Wayne-Dyer/dp/8499085520/ref=sr_1_20?qid=1651869263&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-20 line 7979 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-eu.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|5110husWMzL.js,11yKORv-GTL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21SDJtBU-PL.js,012FVc3131L.js,11rRjDLdAVL.js,51RzYQslpZL.js,11kWu3cNjYL.js,11tMohjWmVL.js,11OREnu1epL.js,11wcWdhrnDL.js,21ssiLNIZvL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31R9m8rig5L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,0197uKrNvvL.js_.js?AUIClients/AmazonUI#page_type-Detail, line 271: TypeError: can't access property "jquery", a is undefined
+JavaScript warning: https://www.amazon.es/Wayne-W.-Dyer/e/B000AQ104Y?ref_=dbs_p_pbk_r00_abau_000000 line 8634 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://www.amazon.es/Encantado-conocerme-edici%C3%B3n-ampliada-CLAVE/dp/8466348891/ref=sr_1_21?qid=1651869263&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-21 line 7631 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Borja-Vilaseca/e/B00J7FYJA6?ref_=dbs_p_pbk_r00_abau_000000 line 6047 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/vida-esto-No-Ficci%C3%B3n/dp/8408252909/ref=sr_1_22?qid=1651869263&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-22 line 8154 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B09P3VYBJL?f=2&l=es_ES&rid=0G9QER6VZHEWV351FPY7&sid=262-0476229-8251522&pa=8408252909&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Luc%C3%ADa-Gal%C3%A1n-Bertrand/e/B01MFF8L55?ref_=dbs_p_pbk_r00_abau_000000 line 6871 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/h%C3%A1bitos-altamente-efectiva-revisada-actualizada/dp/8408143980/ref=sr_1_23?qid=1651869263&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-23 line 8634 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B00T9HU5KK?f=1&l=es_ES&r=cb503c84&rid=3PT378DZBB553Y34G7QN&sid=262-0476229-8251522&pa=8408143980&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Stephen-R.-Covey/e/B000AQ2VAQ?ref_=dbs_p_pbk_r00_abau_000000 line 8970 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://www.amazon.es/f%C3%A1cil-dejar-fumar-sabes-colecci%C3%B3n/dp/8467052937/ref=sr_1_24?qid=1651869263&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-24 line 8026 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B0080K3M0W?f=1&l=es_ES&r=c7e9500c&rid=H7ZHKGA3GKVDWWP50WQA&sid=262-0476229-8251522&pa=8467052937&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Allen-Carr/e/B001XSUEK4?ref_=dbs_p_pbk_r00_abau_000000 line 8580 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Padre-Rico-padre-Pobre-ense%C3%B1an/dp/846633212X/ref=sr_1_25?qid=1651869263&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-25 line 8235 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Robert-T.-Kiyosaki/e/B001H6GV90?ref_=dbs_p_pbk_r00_abau_000000 line 8654 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/EL-PODER-DISCIPLINA-Cambiar%C3%A1-H%C3%81BITOS/dp/1692443003/ref=sr_1_26?qid=1651869263&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-26 line 8112 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B07XSG3JFJ?f=1&l=es_ES&r=facb3b26&rid=HZB8SZYVW5VARPFZAT9M&sid=262-0476229-8251522&pa=1692443003&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Raimon-Sams%C3%B3/e/B002FBP01G?ref_=dbs_p_pbk_r00_abau_000000 line 9218 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Maneras-amar-encontrar-conservarlo-Books4pocket/dp/8415870868/ref=sr_1_27?qid=1651869263&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-27 line 7947 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B0944BMGJM?f=1&l=es_ES&r=eaff3986&rid=9GM08J9EC0ZR5E0R2M95&sid=262-0476229-8251522&pa=8415870868&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Amir-Levine/e/B003XYKDYS?ref_=dbs_p_pbk_r00_abau_000000 line 4778 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/SUTIL-ARTE-IMPORTE-MIERDA-HARPERCOLLINS/dp/8491392289/ref=sr_1_28?qid=1651869263&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-28 line 7825 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B07D9NQCH2?f=1&l=es_ES&r=5385fe79&rid=Y22H9DVQDQX80SZW2P55&sid=262-0476229-8251522&pa=8491392289&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Mark-Manson/e/B00BIJOMOC?ref_=dbs_p_pbk_r00_abau_000000 line 8624 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Somos-leche-edici%C3%B3n-revisada-actualizada/dp/841800715X/ref=sr_1_29?qid=1651869263&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-29 line 8800 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B071253J2P?f=1&l=es_ES&r=d83bd00f&rid=JRX6EDGA2NKHAT8HRDQ5&sid=262-0476229-8251522&pa=841800715X&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Alba-Padr%C3%B3/e/B076PCJS9R?ref_=dbs_p_pbk_r00_abau_000000 line 4033 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Autoamor-Cuerpo-mente-Laura-Chica/dp/8403522290/ref=sr_1_30?qid=1651869263&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-30 line 8545 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B08P2DTQDM?f=2&l=es_ES&rid=SS51JXMEAXB9WYQ9JNX1&sid=262-0476229-8251522&pa=8403522290&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Laura-Chica/e/B082414QW2?ref_=dbs_p_pbk_r00_abau_000000 line 5336 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/secretos-mente-millonaria-Harv-Eker/dp/8478086080/ref=sr_1_31?qid=1651869263&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-31 line 8392 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B01D9W78EQ?f=1&l=es_ES&r=c90a7df1&rid=5GT3ADFY7RS3SHA87MNT&sid=262-0476229-8251522&pa=8478086080&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/T.-Harv-Eker/e/B001H6L48I?ref_=dbs_p_pbk_r00_abau_000000 line 6804 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Padre-edici%C3%B3n-limitada-precio-especial/dp/8466362789/ref=sr_1_32?qid=1651869263&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-32 line 6948 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Robert-T.-Kiyosaki/e/B001H6GV90?ref_=dbs_p_pbk_r00_abau_000000 line 8654 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.amazon.es/s?i=stripbooks&bbn=902718031&rh=n%3A599364031%2Cn%3A902716031%2Cn%3A902718031%2Cp_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&dc&fs=true&page=3&qid=1651869263&rnid=831428031&ref=sr_pg_2 line 7737 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NHksFvpwOA_e7xJte31GpOZsvVxHGuXQeGuPktjycGc.js line 1 > eval line 6408 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/El-poder-confiar-Aprende-conseguir%C3%A1s/dp/8408205633/ref=sr_1_33?qid=1651869405&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-33 line 8312 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B07NBVKGD2?f=1&l=es_ES&r=97594039&rid=383MPYB6H9PJZ4CTC5MH&sid=262-0476229-8251522&pa=8408205633&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Curro-Ca%C3%B1ete/e/B07RF6VYBB?ref_=dbs_p_pbk_r00_abau_000000 line 5047 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 11744, MediaDecoderStateMachine #1] WARNING: Decoder=24131a9a400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 11744, MediaDecoderStateMachine #1] WARNING: Decoder=24131a9a400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3587
+JavaScript warning: https://www.amazon.es/Piense-y-h%C3%A1gase-rico-EXITO/dp/8497778219/ref=sr_1_34?qid=1651869405&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-34 line 8476 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B07RKL3PDX?f=1&l=es_ES&r=c879cbd6&rid=TFN07DDF5M3JGG1DYP0K&sid=262-0476229-8251522&pa=8497778219&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-eu.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|5110husWMzL.js,11yKORv-GTL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21SDJtBU-PL.js,012FVc3131L.js,11rRjDLdAVL.js,51RzYQslpZL.js,11kWu3cNjYL.js,11tMohjWmVL.js,11OREnu1epL.js,11wcWdhrnDL.js,21ssiLNIZvL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31R9m8rig5L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,0197uKrNvvL.js_.js?AUIClients/AmazonUI#page_type-Detail, line 271: TypeError: can't access property "jquery", a is undefined
+JavaScript warning: https://images-eu.ssl-images-amazon.com/images/I/81bzV-5hfzL.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Napoleon-Hill/e/B000APAMYE?ref_=dbs_p_pbk_r00_abau_000000 line 8700 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Resetea-mente-Descubre-capaz-COLECCION/dp/8467062045/ref=sr_1_35?qid=1651869405&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-35 line 7988 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B08WH8P9BJ?f=1&l=es_ES&r=de340a44&rid=M5JR8DBRQM0NTGFHD74A&sid=262-0476229-8251522&pa=8467062045&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Mario-Alonso-Puig/e/B00J3W8W8S?ref_=dbs_p_pbk_r00_abau_000000 line 8405 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/cerebro-del-adolescente-entenderlos-acompa%C3%B1arlos/dp/8425361354/ref=sr_1_36?qid=1651869405&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-36 line 7312 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/David-Bueno/e/B09J5K3QSC?ref_=dbs_p_pbk_r00_abau_000000 line 3772 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B09MDRQSYN?f=1&l=es_ES&r=a6175d15&rid=H07PMPTECHPGKBH22NT5&sid=262-0476229-8251522&pa=8425361354&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://www.amazon.es/Rompe-barrera-del-principios-negociar/dp/8416029741/ref=sr_1_37?qid=1651869405&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-37 line 7731 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Chris-Voss/e/B018Y2I9A8?ref_=dbs_p_pbk_r00_abau_000000 line 5803 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-eu.ssl-images-amazon.com/images/I/81bzV-5hfzL.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651869481137	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.amazon.es/Rompe-barrera-del-principios-negociar/dp/8416029741/ref=sr_1_37?qid=1651869405&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-37 line 7733 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/s?i=stripbooks&bbn=902718031&rh=n%3A599364031%2Cn%3A902716031%2Cn%3A902718031%2Cp_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&dc&fs=true&page=3&qid=1651869263&rnid=831428031&ref=sr_pg_2 line 7737 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NHksFvpwOA_e7xJte31GpOZsvVxHGuXQeGuPktjycGc.js line 1 > eval line 6061 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Rompe-barrera-del-principios-negociar/dp/8416029741/ref=sr_1_37?qid=1651869405&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-37 line 7733 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B01LZN1C6Z?f=1&l=es_ES&r=819cef6e&rid=ZY29WH28QECVR3SBTKWF&sid=262-0476229-8251522&pa=8416029741&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-eu.ssl-images-amazon.com/images/I/81bzV-5hfzL.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Muchas-vidas-muchos-maestros-BOLSILLO/dp/8490707189/ref=sr_1_38?qid=1651869405&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-38 line 8302 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-eu.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|5110husWMzL.js,11yKORv-GTL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21SDJtBU-PL.js,012FVc3131L.js,11rRjDLdAVL.js,51RzYQslpZL.js,11kWu3cNjYL.js,11tMohjWmVL.js,11OREnu1epL.js,11wcWdhrnDL.js,21ssiLNIZvL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31R9m8rig5L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,0197uKrNvvL.js_.js?AUIClients/AmazonUI#page_type-Detail, line 271: TypeError: can't access property "jquery", a is undefined
+1651870036742	geckodriver	INFO	Listening on 127.0.0.1:64347
+1651870039815	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "64348" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilePPRrJ7"
+1651870040328	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64348
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilePPRrJ7\\search.json.mozlz4", (void 0)))
+1651870043441	Marionette	INFO	Listening on port 64353
+1651870043512	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:64348/devtools/browser/db651f09-df6a-4c12-993a-1182d54fca65
+JavaScript warning: https://www.amazon.es/s?i=stripbooks&bbn=902718031&rh=n%3A599364031%2Cn%3A902716031%2Cn%3A902718031%2Cp_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&dc&fs=true&qid=1651600699&rnid=831428031&ref=sr_pg_1 line 7750 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.es"
+JavaScript warning: https://www.amazon.es/C%C3%B3mo-hacer-pasen-cosas-buenas/dp/8467053305/ref=sr_1_1?qid=1651870046&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-1 line 8001 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Marian-Rojas-Estap%C3%A9/e/B0825596GN?ref_=dbs_p_pbk_r00_abau_000000 line 5109 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-eu.ssl-images-amazon.com/images/I/81bzV-5hfzL.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-eu.ssl-images-amazon.com/images/I/81bzV-5hfzL.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B07G5365QW?f=1&l=es_ES&r=d4d3ba00&rid=CAGKNFAHKS9YAW8RNFYN&sid=258-8950933-9750724&pa=8467053305&ref_=litb_d line 552 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Encuentra-persona-vitamina-F-COLECCION/dp/8467062215/ref=sr_1_2?qid=1651870046&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-2 line 8391 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B097QFYCBK?f=1&l=es_ES&r=9a462d47&rid=WG4SA2C7M3QQM38KZFSC&sid=258-8950933-9750724&pa=8467062215&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Marian-Rojas-Estap%C3%A9/e/B0825596GN?ref_=dbs_p_pbk_r00_abau_000000 line 5109 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Cuando-el-coraz%C3%B3n-llora-HarperCollins/dp/8491397353/ref=sr_1_3?qid=1651870046&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-3 line 8066 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B09TFJ7PBL?f=1&l=es_ES&r=ac32359a&rid=X7DK02D3BT64NPV6PVHP&sid=258-8950933-9750724&pa=8491397353&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Tamara-Gorro/e/B076D7SMHF?ref_=dbs_p_pbk_r00_abau_000000 line 3664 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Por-las-voces-vuelven-Ficci%C3%B3n/dp/8408249215/ref=sr_1_4?qid=1651870046&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-4 line 8482 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B09FY765MG?f=1&l=es_ES&r=d6df648c&rid=0Q3SY8BHECWES904ZH9S&sid=258-8950933-9750724&pa=8408249215&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/%C3%81ngel-Mart%C3%ADn/e/B09G75X4ZR?ref_=dbs_p_pbk_r00_abau_000000 line 3156 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Destroza-diario-Ahora-Libros-Singulares/dp/8449333733/ref=sr_1_5?qid=1651870046&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-5 line 8326 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Keri-Smith/e/B001JRZIY6?ref_=dbs_p_pbk_r00_abau_000000 line 5191 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/H%C3%A1bitos-at%C3%B3micos-Autoconocimiento-James-Clear/dp/8418118032/ref=sr_1_6?qid=1651870046&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-6 line 8472 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B085G3G2CY?f=1&l=es_ES&r=c7ecd69c&rid=D7AQ2VSYRCT9D1053H52&sid=258-8950933-9750724&pa=8418118032&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/James-Clear/e/B07DJTJC3X?ref_=dbs_p_pbk_r00_abau_000000 line 8504 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Me-quiero-desarrollar-relaciones-Tendencias/dp/8402424589/ref=sr_1_7?qid=1651870046&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-7 line 8329 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B09LRMTX73?f=1&l=es_ES&r=564a9a62&rid=DDB741ZEVJY21BQ56W0R&sid=258-8950933-9750724&pa=8402424589&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Mar%C3%ADa-Esclapez/e/B08J49RG8N?ref_=dbs_p_pbk_r00_abau_000000 line 3592 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-eu.ssl-images-amazon.com/images/I/81bzV-5hfzL.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Cerebro-Explicado-Padres-Plataforma-Actual/dp/8416429561/ref=sr_1_8?qid=1651870046&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-8 line 8735 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B01IBPAB72?f=1&l=es_ES&r=ee89c1d9&rid=1TD2FTZAJ7N90PKHM8F0&sid=258-8950933-9750724&pa=8416429561&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/%C3%81lvaro-Bilbao/e/B00JCBWH9A?ref_=dbs_p_pbk_r00_abau_000000 line 7138 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Acepta-vuela-odiarme-amarme-medida/dp/8418051523/ref=sr_1_9?qid=1651870046&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-9 line 7192 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B09W4SNCTB?f=1&l=es_ES&r=d7dd0fa7&rid=VZYZMSW1V1QFWVTE0JBJ&sid=258-8950933-9750724&pa=8418051523&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-eu.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|5110husWMzL.js,11yKORv-GTL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21SDJtBU-PL.js,012FVc3131L.js,11rRjDLdAVL.js,51RzYQslpZL.js,11kWu3cNjYL.js,11tMohjWmVL.js,11OREnu1epL.js,11wcWdhrnDL.js,21ssiLNIZvL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31R9m8rig5L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,0197uKrNvvL.js_.js?AUIClients/AmazonUI#page_type-Detail, line 271: TypeError: can't access property "jquery", a is undefined
+JavaScript warning: https://www.amazon.es/Mara-Jim%C3%A9nez/e/B09X7CRZ9M?ref_=dbs_p_pbk_r00_abau_000000 line 3151 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/monje-que-vendi%C3%B3-Ferrari-CLAVE/dp/8499087124/ref=sr_1_10?qid=1651870046&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-10 line 8240 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B0062XBS32?f=1&l=es_ES&r=554faee4&rid=J2ZNBE94V2SQH4XJ90N3&sid=258-8950933-9750724&pa=8499087124&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Robin-Sharma/e/B000APEZCE?ref_=dbs_p_pbk_r00_abau_000000 line 8800 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://www.amazon.es/El-hombre-en-busca-sentido/dp/8425432022/ref=sr_1_11?qid=1651870046&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-11 line 8593 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-eu.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|5110husWMzL.js,11yKORv-GTL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21SDJtBU-PL.js,012FVc3131L.js,11rRjDLdAVL.js,51RzYQslpZL.js,11kWu3cNjYL.js,11tMohjWmVL.js,11OREnu1epL.js,11wcWdhrnDL.js,21ssiLNIZvL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31R9m8rig5L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,0197uKrNvvL.js_.js?AUIClients/AmazonUI#page_type-Detail, line 271: TypeError: can't access property "jquery", a is undefined
+JavaScript warning: https://leer.amazon.es/sample/B019H695T4?f=1&l=es_ES&r=cebf7493&rid=6J9VTAM88TCCZF8M6G3X&sid=258-8950933-9750724&pa=8425432022&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Viktor-E.-Frankl/e/B000APVZJU?ref_=dbs_p_pbk_r00_abau_000000 line 8485 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://www.amazon.es/Los-cuatro-acuerdos-sabidur%C3%ADa-Crecimiento/dp/847953253X/ref=sr_1_12?qid=1651870046&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-12 line 8197 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B005BU9MTO?f=1&l=es_ES&r=f3224261&rid=HHTW038XYWF5KWZRCVKB&sid=258-8950933-9750724&pa=847953253X&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-eu.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|5110husWMzL.js,11yKORv-GTL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21SDJtBU-PL.js,012FVc3131L.js,11rRjDLdAVL.js,51RzYQslpZL.js,11kWu3cNjYL.js,11tMohjWmVL.js,11OREnu1epL.js,11wcWdhrnDL.js,21ssiLNIZvL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31R9m8rig5L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,0197uKrNvvL.js_.js?AUIClients/AmazonUI#page_type-Detail, line 271: TypeError: can't access property "jquery", a is undefined
+JavaScript warning: https://www.amazon.es/Don-Miguel-Ruiz/e/B001JP23NM?ref_=dbs_p_pbk_r00_abau_000000 line 8930 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Invicto-Entrenamiento-mental-lograr-sufrir/dp/8409202581/ref=sr_1_13?qid=1651870046&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-13 line 8009 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Marcos-V%C3%A1zquez/e/B08B8Z8NB4?ref_=dbs_p_pbk_r00_abau_000000 line 4866 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://www.amazon.es/Ends-Us-Colleen-Hoover/dp/1471156265/ref=sr_1_14?qid=1651870046&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-14 line 7962 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-eu.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|5110husWMzL.js,11yKORv-GTL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21SDJtBU-PL.js,012FVc3131L.js,11rRjDLdAVL.js,51RzYQslpZL.js,11kWu3cNjYL.js,11tMohjWmVL.js,11OREnu1epL.js,11wcWdhrnDL.js,21ssiLNIZvL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31R9m8rig5L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,0197uKrNvvL.js_.js?AUIClients/AmazonUI#page_type-Detail, line 271: TypeError: can't access property "jquery", a is undefined
+JavaScript warning: https://leer.amazon.es/sample/B0176M3U10?f=1&l=es_ES&r=e8d03b67&rid=T7JXJ330H0KX5AD581HP&sid=258-8950933-9750724&pa=1471156265&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Colleen-Hoover/e/B006SKAK42?ref_=dbs_p_pbk_r00_abau_000000 line 9170 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Personas-t%C3%B3xicas-identificarlas-narcisistas-superaci%C3%B3n/dp/8408255010/ref=sr_1_15?qid=1651870046&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-15 line 7500 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-eu.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|5110husWMzL.js,11yKORv-GTL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21SDJtBU-PL.js,012FVc3131L.js,11rRjDLdAVL.js,51RzYQslpZL.js,11kWu3cNjYL.js,11tMohjWmVL.js,11OREnu1epL.js,11wcWdhrnDL.js,21ssiLNIZvL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31R9m8rig5L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,0197uKrNvvL.js_.js?AUIClients/AmazonUI#page_type-Detail, line 271: TypeError: can't access property "jquery", a is undefined
+JavaScript warning: https://leer.amazon.es/sample/B09V83W1V5?f=2&l=es_ES&rid=R0VJK72CCV79KZEYW7KR&sid=258-8950933-9750724&pa=8408255010&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Silvia-Congost-Provensal/e/B00J4JU3SM?ref_=dbs_p_pbk_r00_abau_000000 line 7531 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/ganar-amigos-influir-personas-Elipse/dp/8493664928/ref=sr_1_16?qid=1651870046&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-16 line 7958 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B07DWF6W94?f=1&l=es_ES&r=20a1c342&rid=NX3JZ9RE61PHHWREGWDH&sid=258-8950933-9750724&pa=8493664928&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Dale-Carnegie/e/B00OIFV2S2?ref_=dbs_p_pbk_r00_abau_000000 line 8465 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/s?i=stripbooks&bbn=902718031&rh=n%3A599364031%2Cn%3A902716031%2Cn%3A902718031%2Cp_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&dc&fs=true&page=2&qid=1651870046&rnid=831428031&ref=sr_pg_1 line 7748 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NHksFvpwOA_e7xJte31GpOZsvVxHGuXQeGuPktjycGc.js line 1 > eval line 1134 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/El-Humor-Mi-Vida-Espa%C3%B1ol/dp/8491396209/ref=sr_1_17?qid=1651870280&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-17 line 8351 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B08VL1GSDX?f=1&l=es_ES&r=d3ff4110&rid=JZSH9S10XRQPTEADRTVA&sid=258-8950933-9750724&pa=8491396209&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Paz-Padilla/e/B00IYSCA7G?ref_=dbs_p_pbk_r00_abau_000000 line 3812 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-eu.ssl-images-amazon.com/images/I/81bzV-5hfzL.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/revoluci%C3%B3n-glucosa-Equilibra-niveles-cambiar%C3%A1s/dp/8411190080/ref=sr_1_18?qid=1651870280&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-18 line 7032 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-eu.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|5110husWMzL.js,11yKORv-GTL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21SDJtBU-PL.js,012FVc3131L.js,11rRjDLdAVL.js,51RzYQslpZL.js,11kWu3cNjYL.js,11tMohjWmVL.js,11OREnu1epL.js,11wcWdhrnDL.js,21ssiLNIZvL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31R9m8rig5L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,0197uKrNvvL.js_.js?AUIClients/AmazonUI#page_type-Detail, line 271: TypeError: can't access property "jquery", a is undefined
+JavaScript warning: https://www.amazon.es/Jessie-Inchauspe/e/B093K86K1Z?ref_=dbs_p_pbk_r00_abau_000000 line 4559 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-eu.ssl-images-amazon.com/images/I/81bzV-5hfzL.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Sin-miedo-comprobado-obsesiones-hipocondr%C3%ADa/dp/8425361109/ref=sr_1_19?qid=1651870280&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-19 line 8065 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B093XVPLGG?f=1&l=es_ES&r=d6ffd604&rid=GDV09WX61XXW17D5MNFX&sid=258-8950933-9750724&pa=8425361109&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Rafael-Santandreu/e/B00J2GNY9M?ref_=dbs_p_pbk_r00_abau_000000 line 8289 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/zonas-err%C3%B3neas-CLAVE-Wayne-Dyer/dp/8499085520/ref=sr_1_20?qid=1651870280&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-20 line 7982 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-eu.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|5110husWMzL.js,11yKORv-GTL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21SDJtBU-PL.js,012FVc3131L.js,11rRjDLdAVL.js,51RzYQslpZL.js,11kWu3cNjYL.js,11tMohjWmVL.js,11OREnu1epL.js,11wcWdhrnDL.js,21ssiLNIZvL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31R9m8rig5L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,0197uKrNvvL.js_.js?AUIClients/AmazonUI#page_type-Detail, line 271: TypeError: can't access property "jquery", a is undefined
+JavaScript warning: https://www.amazon.es/Wayne-W.-Dyer/e/B000AQ104Y?ref_=dbs_p_pbk_r00_abau_000000 line 8634 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NHksFvpwOA_e7xJte31GpOZsvVxHGuXQeGuPktjycGc.js line 1 > eval line 1494 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.amazon.es/Encantado-conocerme-edici%C3%B3n-ampliada-CLAVE/dp/8466348891/ref=sr_1_21?qid=1651870280&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-21 line 7687 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Borja-Vilaseca/e/B00J7FYJA6?ref_=dbs_p_pbk_r00_abau_000000 line 6047 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NHksFvpwOA_e7xJte31GpOZsvVxHGuXQeGuPktjycGc.js line 1 > eval line 3550 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.amazon.es/vida-esto-No-Ficci%C3%B3n/dp/8408252909/ref=sr_1_22?qid=1651870280&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-22 line 8166 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B09P3VYBJL?f=2&l=es_ES&rid=YV1J847135YJA41F8SAD&sid=258-8950933-9750724&pa=8408252909&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Luc%C3%ADa-Gal%C3%A1n-Bertrand/e/B01MFF8L55?ref_=dbs_p_pbk_r00_abau_000000 line 6871 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/h%C3%A1bitos-altamente-efectiva-revisada-actualizada/dp/8408143980/ref=sr_1_23?qid=1651870280&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-23 line 8563 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B00T9HU5KK?f=1&l=es_ES&r=cb503c84&rid=VTZAFMT3X6FQYPTFBRGJ&sid=258-8950933-9750724&pa=8408143980&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Stephen-R.-Covey/e/B000AQ2VAQ?ref_=dbs_p_pbk_r00_abau_000000 line 8970 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/f%C3%A1cil-dejar-fumar-sabes-colecci%C3%B3n/dp/8467052937/ref=sr_1_24?qid=1651870280&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-24 line 8057 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B0080K3M0W?f=1&l=es_ES&r=c7e9500c&rid=BEB25G9SH962K331Q89Y&sid=258-8950933-9750724&pa=8467052937&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Allen-Carr/e/B001XSUEK4?ref_=dbs_p_pbk_r00_abau_000000 line 8580 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-eu.ssl-images-amazon.com/images/I/81bzV-5hfzL.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Padre-Rico-padre-Pobre-ense%C3%B1an/dp/846633212X/ref=sr_1_25?qid=1651870280&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-25 line 8257 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Robert-T.-Kiyosaki/e/B001H6GV90?ref_=dbs_p_pbk_r00_abau_000000 line 8654 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/EL-PODER-DISCIPLINA-Cambiar%C3%A1-H%C3%81BITOS/dp/1692443003/ref=sr_1_26?qid=1651870280&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-26 line 8136 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Raimon-Sams%C3%B3/e/B002FBP01G?ref_=dbs_p_pbk_r00_abau_000000 line 9218 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Maneras-amar-encontrar-conservarlo-Books4pocket/dp/8415870868/ref=sr_1_27?qid=1651870280&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-27 line 7911 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B0944BMGJM?f=1&l=es_ES&r=eaff3986&rid=PDR5ZM4PY50RG560KZ2P&sid=258-8950933-9750724&pa=8415870868&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Amir-Levine/e/B003XYKDYS?ref_=dbs_p_pbk_r00_abau_000000 line 4778 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-eu.ssl-images-amazon.com/images/I/81bzV-5hfzL.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://www.amazon.es/SUTIL-ARTE-IMPORTE-MIERDA-HARPERCOLLINS/dp/8491392289/ref=sr_1_28?qid=1651870280&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-28 line 7890 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B07D9NQCH2?f=1&l=es_ES&r=5385fe79&rid=TT0QMAMTJXQ0EQVW5GR4&sid=258-8950933-9750724&pa=8491392289&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Mark-Manson/e/B00BIJOMOC?ref_=dbs_p_pbk_r00_abau_000000 line 8624 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://www.amazon.es/Somos-leche-edici%C3%B3n-revisada-actualizada/dp/841800715X/ref=sr_1_29?qid=1651870280&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-29 line 8805 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B071253J2P?f=1&l=es_ES&r=d83bd00f&rid=7P10J19K7WWYJKAF0RFK&sid=258-8950933-9750724&pa=841800715X&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Alba-Padr%C3%B3/e/B076PCJS9R?ref_=dbs_p_pbk_r00_abau_000000 line 4033 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://www.amazon.es/Autoamor-Cuerpo-mente-Laura-Chica/dp/8403522290/ref=sr_1_30?qid=1651870280&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-30 line 8542 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B08P2DTQDM?f=2&l=es_ES&rid=NSCY2V46JDT25M6NJ5DG&sid=258-8950933-9750724&pa=8403522290&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Laura-Chica/e/B082414QW2?ref_=dbs_p_pbk_r00_abau_000000 line 5336 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/secretos-mente-millonaria-Harv-Eker/dp/8478086080/ref=sr_1_31?qid=1651870280&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-31 line 8389 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B01D9W78EQ?f=1&l=es_ES&r=c90a7df1&rid=90FTMAWED4PJK0Q0C6ZT&sid=258-8950933-9750724&pa=8478086080&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/T.-Harv-Eker/e/B001H6L48I?ref_=dbs_p_pbk_r00_abau_000000 line 6792 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Padre-edici%C3%B3n-limitada-precio-especial/dp/8466362789/ref=sr_1_32?qid=1651870280&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-32 line 6951 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Robert-T.-Kiyosaki/e/B001H6GV90?ref_=dbs_p_pbk_r00_abau_000000 line 8654 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://www.amazon.es/s?i=stripbooks&bbn=902718031&rh=n%3A599364031%2Cn%3A902716031%2Cn%3A902718031%2Cp_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&dc&fs=true&page=3&qid=1651870280&rnid=831428031&ref=sr_pg_2 line 7748 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NHksFvpwOA_e7xJte31GpOZsvVxHGuXQeGuPktjycGc.js line 1 > eval line 2214 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/El-poder-confiar-Aprende-conseguir%C3%A1s/dp/8408205633/ref=sr_1_33?qid=1651870537&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-33 line 8315 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B07NBVKGD2?f=1&l=es_ES&r=97594039&rid=9WBFNR295HAP2JVE31B6&sid=258-8950933-9750724&pa=8408205633&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-eu.ssl-images-amazon.com/images/I/81bzV-5hfzL.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Curro-Ca%C3%B1ete/e/B07RF6VYBB?ref_=dbs_p_pbk_r00_abau_000000 line 5047 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Piense-y-h%C3%A1gase-rico-EXITO/dp/8497778219/ref=sr_1_34?qid=1651870537&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-34 line 8476 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B07RKL3PDX?f=1&l=es_ES&r=c879cbd6&rid=VKE3RMNJT96Y4YW14V3W&sid=258-8950933-9750724&pa=8497778219&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-eu.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|5110husWMzL.js,11yKORv-GTL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21SDJtBU-PL.js,012FVc3131L.js,11rRjDLdAVL.js,51RzYQslpZL.js,11kWu3cNjYL.js,11tMohjWmVL.js,11OREnu1epL.js,11wcWdhrnDL.js,21ssiLNIZvL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31R9m8rig5L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,0197uKrNvvL.js_.js?AUIClients/AmazonUI#page_type-Detail, line 271: TypeError: can't access property "jquery", a is undefined
+JavaScript warning: https://www.amazon.es/Napoleon-Hill/e/B000APAMYE?ref_=dbs_p_pbk_r00_abau_000000 line 8700 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Resetea-mente-Descubre-capaz-COLECCION/dp/8467062045/ref=sr_1_35?qid=1651870537&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-35 line 7996 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B08WH8P9BJ?f=1&l=es_ES&r=de340a44&rid=5W5M8WQ9SSQ8B8AXYS8V&sid=258-8950933-9750724&pa=8467062045&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Mario-Alonso-Puig/e/B00J3W8W8S?ref_=dbs_p_pbk_r00_abau_000000 line 8393 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/cerebro-del-adolescente-entenderlos-acompa%C3%B1arlos/dp/8425361354/ref=sr_1_36?qid=1651870537&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-36 line 7312 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B09MDRQSYN?f=1&l=es_ES&r=a6175d15&rid=SH8Y9ZZ7RGPBQGEJT8PG&sid=258-8950933-9750724&pa=8425361354&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/David-Bueno/e/B09J5K3QSC?ref_=dbs_p_pbk_r00_abau_000000 line 3784 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Rompe-barrera-del-principios-negociar/dp/8416029741/ref=sr_1_37?qid=1651870537&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-37 line 7734 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B01LZN1C6Z?f=1&l=es_ES&r=819cef6e&rid=CQAGGMN4DVPDZ1RXFBDK&sid=258-8950933-9750724&pa=8416029741&ref_=litb_d line 551 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Chris-Voss/e/B018Y2I9A8?ref_=dbs_p_pbk_r00_abau_000000 line 5803 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-eu.ssl-images-amazon.com/images/I/81bzV-5hfzL.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Muchas-vidas-muchos-maestros-BOLSILLO/dp/8490707189/ref=sr_1_38?qid=1651870537&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-38 line 8265 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-eu.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|5110husWMzL.js,11yKORv-GTL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21SDJtBU-PL.js,012FVc3131L.js,11rRjDLdAVL.js,51RzYQslpZL.js,11kWu3cNjYL.js,11tMohjWmVL.js,11OREnu1epL.js,11wcWdhrnDL.js,21ssiLNIZvL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31R9m8rig5L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,0197uKrNvvL.js_.js?AUIClients/AmazonUI#page_type-Detail, line 271: TypeError: can't access property "jquery", a is undefined
+1651913226664	geckodriver	INFO	Listening on 127.0.0.1:61137
+1651913229827	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "61138" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilewy0IhH"
+1651913230420	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61138
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilewy0IhH\\search.json.mozlz4", (void 0)))
+1651913234010	Marionette	INFO	Listening on port 61143
+DevTools listening on ws://localhost:61138/devtools/browser/11e78f91-e539-4f9e-9c76-c43560bc87ce
+1651913234226	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Shutting down due to socket process crash.
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+1651913770280	geckodriver	INFO	Listening on 127.0.0.1:58892
+1651913773418	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "58893" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileyzqgth"
+1651913773965	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58893
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofileyzqgth\\search.json.mozlz4", (void 0)))
+1651913777211	Marionette	INFO	Listening on port 58899
+DevTools listening on ws://localhost:58893/devtools/browser/6ae4f699-d255-4aea-848d-a2a1f665c3ab
+1651913777649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651913780495	Marionette	INFO	Stopped listening on port 58899
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1651913843362	geckodriver	INFO	Listening on 127.0.0.1:58958
+1651913846480	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "58959" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofile1N020F"
+1651913847016	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58959
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofile1N020F\\search.json.mozlz4", (void 0)))
+1651913850439	Marionette	INFO	Listening on port 58964
+1651913850690	Marionette	INFO	Stopped listening on port 58964
+1651913850735	CDP	WARN	Failed to remove undefined (Could not parse path (undefined): NS_ERROR_FILE_UNRECOGNIZED_PATH)
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+1651913850801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651913901779	geckodriver	INFO	Listening on 127.0.0.1:58993
+1651913904883	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "58994" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofile323NHE"
+1651913905432	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58994
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofile323NHE\\search.json.mozlz4", (void 0)))
+1651913908763	Marionette	INFO	Listening on port 58999
+DevTools listening on ws://localhost:58994/devtools/browser/9eb89624-4470-4b85-adeb-27fae0787047
+1651913909105	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.es/s?i=stripbooks&bbn=902718031&rh=n%3A599364031%2Cn%3A902716031%2Cn%3A902718031%2Cp_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&dc&fs=true&qid=1651600699&rnid=831428031&ref=sr_pg_1 line 7738 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.es"
+JavaScript warning: https://www.amazon.es/C%C3%B3mo-hacer-pasen-cosas-buenas/dp/8467053305/ref=sr_1_1?qid=1651913915&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-1 line 7990 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Marian-Rojas-Estap%C3%A9/e/B0825596GN?ref_=dbs_p_pbk_r00_abau_000000 line 5101 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Encuentra-persona-vitamina-F-COLECCION/dp/8467062215/ref=sr_1_2?qid=1651913915&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-2 line 8385 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B097QFYCBK?f=1&l=es_ES&r=9a462d47&rid=H3RRHTDH3MQJK0CB7W6P&sid=262-7084452-9516907&pa=8467062215&ref_=litb_d line 552 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Marian-Rojas-Estap%C3%A9/e/B0825596GN?ref_=dbs_p_pbk_r00_abau_000000 line 5101 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Cuando-el-coraz%C3%B3n-llora-HarperCollins/dp/8491397353/ref=sr_1_3?qid=1651913915&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-3 line 8055 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.es/Tamara-Gorro/e/B076D7SMHF?ref_=dbs_p_pbk_r00_abau_000000 line 3668 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651914026864	Marionette	INFO	Stopped listening on port 58999
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1651914103604	geckodriver	INFO	Listening on 127.0.0.1:59426
+1651914106726	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "59427" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilesyTRm9"
+1651914107288	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:59427
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilesyTRm9\\search.json.mozlz4", (void 0)))
+1651914110712	Marionette	INFO	Listening on port 59432
+DevTools listening on ws://localhost:59427/devtools/browser/235cf90f-5dfe-4e16-901d-3124c1f7ecca
+1651914110979	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.es/s?i=stripbooks&bbn=902718031&rh=n%3A599364031%2Cn%3A902716031%2Cn%3A902718031%2Cp_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&dc&fs=true&qid=1651600699&rnid=831428031&ref=sr_pg_1 line 7734 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.es"
+JavaScript warning: https://www.amazon.es/C%C3%B3mo-hacer-pasen-cosas-buenas/dp/8467053305/ref=sr_1_1?qid=1651914124&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-1 line 8002 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B07G5365QW?f=1&l=es_ES&r=d4d3ba00&rid=15PG1S64ECA3DJG3C1K6&sid=259-9357227-8627656&pa=8467053305&ref_=litb_d line 552 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-eu.ssl-images-amazon.com/images/I/81bzV-5hfzL.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-eu.ssl-images-amazon.com/images/I/81bzV-5hfzL.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1651915291900	geckodriver	INFO	Listening on 127.0.0.1:59808
+1651915295009	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "59809" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilepNCtQw"
+1651915295526	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:59809
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilepNCtQw\\search.json.mozlz4", (void 0)))
+1651915299391	Marionette	INFO	Listening on port 59814
+DevTools listening on ws://localhost:59809/devtools/browser/f4cbdaf3-b4bf-4102-aa24-80e32ab6db48
+1651915299972	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.es/s?i=stripbooks&bbn=902718031&rh=n%3A599364031%2Cn%3A902716031%2Cn%3A902718031%2Cp_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&dc&fs=true&qid=1651600699&rnid=831428031&ref=sr_pg_1 line 7765 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.es"
+1651915321478	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://www.amazon.es/C%C3%B3mo-hacer-pasen-cosas-buenas/dp/8467053305/ref=sr_1_1?qid=1651915312&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-1 line 8014 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-eu.ssl-images-amazon.com/images/I/81bzV-5hfzL.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B07G5365QW?f=1&l=es_ES&r=d4d3ba00&rid=5AHEH7EXKNE94CN7CPKT&sid=260-8006927-2642431&pa=8467053305&ref_=litb_d line 552 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651915415158	geckodriver	INFO	Listening on 127.0.0.1:59990
+1651915418297	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "59991" "-no-remote" "-profile" "C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilewUduxu"
+1651915418875	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:59991
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Carlos\\AppData\\Local\\Temp\\rust_mozprofilewUduxu\\search.json.mozlz4", (void 0)))
+1651915422445	Marionette	INFO	Listening on port 59998
+1651915422510	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:59991/devtools/browser/7cdd6b1c-4d17-45b2-8ba7-e464059cec32
+JavaScript warning: https://www.amazon.es/s?i=stripbooks&bbn=902718031&rh=n%3A599364031%2Cn%3A902716031%2Cn%3A902718031%2Cp_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&dc&fs=true&qid=1651600699&rnid=831428031&ref=sr_pg_1 line 7753 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.es"
+JavaScript warning: https://www.amazon.es/C%C3%B3mo-hacer-pasen-cosas-buenas/dp/8467053305/ref=sr_1_1?qid=1651915429&refinements=p_n_availability%3A831278031%2Cp_n_binding_browse-bin%3A831435031%7C831436031&rnid=831428031&s=books&sr=1-1 line 7996 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leer.amazon.es/sample/B07G5365QW?f=1&l=es_ES&r=d4d3ba00&rid=ZHEW4RRN0V5P3527VACR&sid=261-1422436-2378962&pa=8467053305&ref_=litb_d line 552 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
